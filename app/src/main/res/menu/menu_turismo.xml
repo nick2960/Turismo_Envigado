@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.movilesudea.nicolasposada.turismo_envigado.Turismo">
+    <item android:id="@+id/actiont_publicidad"
+        android:title="@string/P"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/actiont_hoteles"
+        android:title="@string/H"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/actiont_bares"
+        android:title="@string/B"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/actiont_demografia"
+        android:title="@string/D"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/actiont_acercade"
+        android:title="@string/Ade"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+</menu>

@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".Publicidad_Envigado">
+    <item android:id="@+id/actionp_hoteles"
+        android:title="@string/H"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/actionp_bares"
+        android:title="@string/B"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/actionp_turismo"
+        android:title="@string/T"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/actionp_demografia"
+        android:title="@string/D"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/actionp_acercade"
+        android:title="@string/Ade"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+</menu>
